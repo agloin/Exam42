@@ -143,32 +143,32 @@ Exam42/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/build
 .PHONY : Exam42/fast
 
-ft_itoa/ft_itoa.o: ft_itoa/ft_itoa.c.o
+sort_list/sort_list1.o: sort_list/sort_list1.c.o
 
-.PHONY : ft_itoa/ft_itoa.o
+.PHONY : sort_list/sort_list1.o
 
 # target to build an object file
-ft_itoa/ft_itoa.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.o
-.PHONY : ft_itoa/ft_itoa.c.o
+sort_list/sort_list1.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/sort_list/sort_list1.c.o
+.PHONY : sort_list/sort_list1.c.o
 
-ft_itoa/ft_itoa.i: ft_itoa/ft_itoa.c.i
+sort_list/sort_list1.i: sort_list/sort_list1.c.i
 
-.PHONY : ft_itoa/ft_itoa.i
+.PHONY : sort_list/sort_list1.i
 
 # target to preprocess a source file
-ft_itoa/ft_itoa.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.i
-.PHONY : ft_itoa/ft_itoa.c.i
+sort_list/sort_list1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/sort_list/sort_list1.c.i
+.PHONY : sort_list/sort_list1.c.i
 
-ft_itoa/ft_itoa.s: ft_itoa/ft_itoa.c.s
+sort_list/sort_list1.s: sort_list/sort_list1.c.s
 
-.PHONY : ft_itoa/ft_itoa.s
+.PHONY : sort_list/sort_list1.s
 
 # target to generate assembly for a file
-ft_itoa/ft_itoa.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.s
-.PHONY : ft_itoa/ft_itoa.c.s
+sort_list/sort_list1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/sort_list/sort_list1.c.s
+.PHONY : sort_list/sort_list1.c.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Exam42"
-	@echo "... ft_itoa/ft_itoa.o"
-	@echo "... ft_itoa/ft_itoa.i"
-	@echo "... ft_itoa/ft_itoa.s"
+	@echo "... sort_list/sort_list1.o"
+	@echo "... sort_list/sort_list1.i"
+	@echo "... sort_list/sort_list1.s"
 .PHONY : help
 
 

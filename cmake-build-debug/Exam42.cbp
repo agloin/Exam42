@@ -78,7 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/agloin/Desktop/Exam42/ft_itoa/ft_itoa.c">
+		<Unit filename="/Users/agloin/Desktop/Exam42/sort_list/sort_list1.c">
 			<Option target="Exam42"/>
 		</Unit>
 		<Unit filename="/Users/agloin/Desktop/Exam42/CMakeLists.txt">

@@ -4,4 +4,4 @@ project(Exam42 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Exam42
-        ft_itoa/ft_itoa.c)
+        sort_list/sort_list1.c)

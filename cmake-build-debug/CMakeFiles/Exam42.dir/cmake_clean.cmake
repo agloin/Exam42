@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.o"
+  "CMakeFiles/Exam42.dir/sort_list/sort_list1.c.o"
   "Exam42"
   "Exam42.pdb"
 )

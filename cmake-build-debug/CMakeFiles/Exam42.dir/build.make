@@ -77,27 +77,27 @@ include CMakeFiles/Exam42.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Exam42.dir/flags.make
 
-CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.o: CMakeFiles/Exam42.dir/flags.make
-CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.o: ../ft_itoa/ft_itoa.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/agloin/Desktop/Exam42/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.o   -c /Users/agloin/Desktop/Exam42/ft_itoa/ft_itoa.c
+CMakeFiles/Exam42.dir/sort_list/sort_list1.c.o: CMakeFiles/Exam42.dir/flags.make
+CMakeFiles/Exam42.dir/sort_list/sort_list1.c.o: ../sort_list/sort_list1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/agloin/Desktop/Exam42/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Exam42.dir/sort_list/sort_list1.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Exam42.dir/sort_list/sort_list1.c.o   -c /Users/agloin/Desktop/Exam42/sort_list/sort_list1.c
 
-CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/agloin/Desktop/Exam42/ft_itoa/ft_itoa.c > CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.i
+CMakeFiles/Exam42.dir/sort_list/sort_list1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Exam42.dir/sort_list/sort_list1.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/agloin/Desktop/Exam42/sort_list/sort_list1.c > CMakeFiles/Exam42.dir/sort_list/sort_list1.c.i
 
-CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/agloin/Desktop/Exam42/ft_itoa/ft_itoa.c -o CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.s
+CMakeFiles/Exam42.dir/sort_list/sort_list1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Exam42.dir/sort_list/sort_list1.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/agloin/Desktop/Exam42/sort_list/sort_list1.c -o CMakeFiles/Exam42.dir/sort_list/sort_list1.c.s
 
 # Object files for target Exam42
 Exam42_OBJECTS = \
-"CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.o"
+"CMakeFiles/Exam42.dir/sort_list/sort_list1.c.o"
 
 # External object files for target Exam42
 Exam42_EXTERNAL_OBJECTS =
 
-Exam42: CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.o
+Exam42: CMakeFiles/Exam42.dir/sort_list/sort_list1.c.o
 Exam42: CMakeFiles/Exam42.dir/build.make
 Exam42: CMakeFiles/Exam42.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/agloin/Desktop/Exam42/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Exam42"

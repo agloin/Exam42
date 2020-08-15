@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/agloin/Desktop/Exam42/ft_itoa/ft_itoa.c
-stdlib.h
--
+/Users/agloin/Desktop/Exam42/sort_list/list.h
+
+/Users/agloin/Desktop/Exam42/sort_list/sort_list1.c
 stdio.h
+-
+list.h
+/Users/agloin/Desktop/Exam42/sort_list/list.h
+stdlib.h
 -
 
