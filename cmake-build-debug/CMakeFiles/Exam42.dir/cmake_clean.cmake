@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Exam42.dir/ft_split/ft_split.c.o"
+  "CMakeFiles/Exam42.dir/fprime.c.o"
   "Exam42"
   "Exam42.pdb"
 )

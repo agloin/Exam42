@@ -78,7 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/agloin/Desktop/Exam42/ft_split/ft_split.c">
+		<Unit filename="/Users/agloin/Desktop/Exam42/fprime.c">
 			<Option target="Exam42"/>
 		</Unit>
 		<Unit filename="/Users/agloin/Desktop/Exam42/CMakeLists.txt">

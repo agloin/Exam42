@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/agloin/Desktop/Exam42/ft_split/ft_split.c" "/Users/agloin/Desktop/Exam42/cmake-build-debug/CMakeFiles/Exam42.dir/ft_split/ft_split.c.o"
+  "/Users/agloin/Desktop/Exam42/fprime.c" "/Users/agloin/Desktop/Exam42/cmake-build-debug/CMakeFiles/Exam42.dir/fprime.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
