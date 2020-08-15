@@ -32,18 +32,18 @@
     <list default="true" id="6a2e9fee-6d76-408e-bd95-0343f9fae51d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/C.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exam42" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exam42" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exam42.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exam42.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_itoa/ft_itoa.c" beforeDir="false" afterPath="$PROJECT_DIR$/ft_itoa/ft_itoa.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +77,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
-    <configuration name="Exam42" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Exam42" TARGET_NAME="Exam42" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Exam42" RUN_TARGET_NAME="Exam42">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Exam42" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Exam42" TARGET_NAME="Exam42" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Exam42" RUN_TARGET_NAME="Exam42">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -112,7 +112,8 @@
       <workItem from="1596711528068" duration="808000" />
       <workItem from="1596799381237" duration="2799000" />
       <workItem from="1596808134796" duration="4919000" />
-      <workItem from="1597502183008" duration="1271000" />
+      <workItem from="1597502183008" duration="1485000" />
+      <workItem from="1597519171297" duration="2088000" />
     </task>
     <servers />
   </component>
@@ -136,22 +137,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="508" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1596640687788" />
-    <state width="1499" height="409" key="GridCell.Tab.0.bottom" timestamp="1596813460753">
+    <state width="1499" height="502" key="GridCell.Tab.0.bottom" timestamp="1597521284803">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="409" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1596813460753" />
-    <state width="1499" height="409" key="GridCell.Tab.0.center" timestamp="1596813460752">
+    <state width="1499" height="502" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1597521284803" />
+    <state width="1499" height="502" key="GridCell.Tab.0.center" timestamp="1597521284802">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="409" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1596813460752" />
-    <state width="1499" height="409" key="GridCell.Tab.0.left" timestamp="1596813460751">
+    <state width="1499" height="502" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1597521284802" />
+    <state width="1499" height="502" key="GridCell.Tab.0.left" timestamp="1597521284801">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="409" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1596813460751" />
-    <state width="1499" height="409" key="GridCell.Tab.0.right" timestamp="1596813460752">
+    <state width="1499" height="502" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1597521284801" />
+    <state width="1499" height="502" key="GridCell.Tab.0.right" timestamp="1597521284803">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="409" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1596813460752" />
+    <state width="1499" height="502" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1597521284803" />
     <state width="854" height="276" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1596625551843">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/agloin/Desktop/Exam42/ft_split/ft_split.c
+/Users/agloin/Desktop/Exam42/ft_itoa/ft_itoa.c
 stdlib.h
 -
 stdio.h

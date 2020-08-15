@@ -4,4 +4,4 @@ project(Exam42 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Exam42
-        fprime.c)
+        ft_itoa/ft_itoa.c)

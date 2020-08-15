@@ -143,32 +143,32 @@ Exam42/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/build
 .PHONY : Exam42/fast
 
-fprime.o: fprime.c.o
+ft_itoa/ft_itoa.o: ft_itoa/ft_itoa.c.o
 
-.PHONY : fprime.o
+.PHONY : ft_itoa/ft_itoa.o
 
 # target to build an object file
-fprime.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/fprime.c.o
-.PHONY : fprime.c.o
+ft_itoa/ft_itoa.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.o
+.PHONY : ft_itoa/ft_itoa.c.o
 
-fprime.i: fprime.c.i
+ft_itoa/ft_itoa.i: ft_itoa/ft_itoa.c.i
 
-.PHONY : fprime.i
+.PHONY : ft_itoa/ft_itoa.i
 
 # target to preprocess a source file
-fprime.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/fprime.c.i
-.PHONY : fprime.c.i
+ft_itoa/ft_itoa.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.i
+.PHONY : ft_itoa/ft_itoa.c.i
 
-fprime.s: fprime.c.s
+ft_itoa/ft_itoa.s: ft_itoa/ft_itoa.c.s
 
-.PHONY : fprime.s
+.PHONY : ft_itoa/ft_itoa.s
 
 # target to generate assembly for a file
-fprime.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/fprime.c.s
-.PHONY : fprime.c.s
+ft_itoa/ft_itoa.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/ft_itoa/ft_itoa.c.s
+.PHONY : ft_itoa/ft_itoa.c.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Exam42"
-	@echo "... fprime.o"
-	@echo "... fprime.i"
-	@echo "... fprime.s"
+	@echo "... ft_itoa/ft_itoa.o"
+	@echo "... ft_itoa/ft_itoa.i"
+	@echo "... ft_itoa/ft_itoa.s"
 .PHONY : help
 
 
