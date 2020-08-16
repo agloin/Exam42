@@ -30,7 +30,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a2e9fee-6d76-408e-bd95-0343f9fae51d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sort_list/sort_list1.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/C.includecache" afterDir="false" />
@@ -40,10 +39,11 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/sort_list/sort_list1.c.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exam42" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exam42" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exam42.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exam42.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort_list/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/sort_list/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_itoa_base/ft_itoa_base.c" beforeDir="false" afterPath="$PROJECT_DIR$/ft_itoa_base/ft_itoa_base.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ft_itoa_base/ft_itoa_base.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CMakeLists.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
@@ -77,11 +81,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Exam42" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Exam42" TARGET_NAME="Exam42" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Exam42" RUN_TARGET_NAME="Exam42">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -113,7 +112,9 @@
       <workItem from="1596799381237" duration="2799000" />
       <workItem from="1596808134796" duration="4919000" />
       <workItem from="1597502183008" duration="1485000" />
-      <workItem from="1597519171297" duration="6353000" />
+      <workItem from="1597519171297" duration="6541000" />
+      <workItem from="1597579509901" duration="405000" />
+      <workItem from="1597580008799" duration="4618000" />
     </task>
     <servers />
   </component>
@@ -137,38 +138,38 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="508" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1596640687788" />
-    <state width="1499" height="409" key="GridCell.Tab.0.bottom" timestamp="1597525460863">
+    <state width="1499" height="401" key="GridCell.Tab.0.bottom" timestamp="1597586552458">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="409" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1597525460863" />
-    <state width="1499" height="409" key="GridCell.Tab.0.center" timestamp="1597525460862">
+    <state width="1499" height="401" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1597586552458" />
+    <state width="1499" height="401" key="GridCell.Tab.0.center" timestamp="1597586552457">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="409" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1597525460862" />
-    <state width="1499" height="409" key="GridCell.Tab.0.left" timestamp="1597525460862">
+    <state width="1499" height="401" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1597586552457" />
+    <state width="1499" height="401" key="GridCell.Tab.0.left" timestamp="1597586552456">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="409" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1597525460862" />
-    <state width="1499" height="409" key="GridCell.Tab.0.right" timestamp="1597525460863">
+    <state width="1499" height="401" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1597586552456" />
+    <state width="1499" height="401" key="GridCell.Tab.0.right" timestamp="1597586552457">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="409" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1597525460863" />
-    <state width="1499" height="502" key="GridCell.Tab.1.bottom" timestamp="1597521291321">
+    <state width="1499" height="401" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1597586552457" />
+    <state width="1499" height="502" key="GridCell.Tab.1.bottom" timestamp="1597525747251">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="502" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1597521291321" />
-    <state width="1499" height="502" key="GridCell.Tab.1.center" timestamp="1597521291321">
+    <state width="1499" height="502" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1597525747251" />
+    <state width="1499" height="502" key="GridCell.Tab.1.center" timestamp="1597525747250">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="502" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1597521291321" />
-    <state width="1499" height="502" key="GridCell.Tab.1.left" timestamp="1597521291320">
+    <state width="1499" height="502" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1597525747250" />
+    <state width="1499" height="502" key="GridCell.Tab.1.left" timestamp="1597525747250">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="502" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1597521291320" />
-    <state width="1499" height="502" key="GridCell.Tab.1.right" timestamp="1597521291321">
+    <state width="1499" height="502" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1597525747250" />
+    <state width="1499" height="502" key="GridCell.Tab.1.right" timestamp="1597525747250">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="502" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1597521291321" />
+    <state width="1499" height="502" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1597525747250" />
     <state width="854" height="276" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1596625551843">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>

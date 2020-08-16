@@ -143,32 +143,32 @@ Exam42/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/build
 .PHONY : Exam42/fast
 
-sort_list/sort_list1.o: sort_list/sort_list1.c.o
+ft_itoa_base/ft_itoa_base.o: ft_itoa_base/ft_itoa_base.c.o
 
-.PHONY : sort_list/sort_list1.o
+.PHONY : ft_itoa_base/ft_itoa_base.o
 
 # target to build an object file
-sort_list/sort_list1.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/sort_list/sort_list1.c.o
-.PHONY : sort_list/sort_list1.c.o
+ft_itoa_base/ft_itoa_base.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/ft_itoa_base/ft_itoa_base.c.o
+.PHONY : ft_itoa_base/ft_itoa_base.c.o
 
-sort_list/sort_list1.i: sort_list/sort_list1.c.i
+ft_itoa_base/ft_itoa_base.i: ft_itoa_base/ft_itoa_base.c.i
 
-.PHONY : sort_list/sort_list1.i
+.PHONY : ft_itoa_base/ft_itoa_base.i
 
 # target to preprocess a source file
-sort_list/sort_list1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/sort_list/sort_list1.c.i
-.PHONY : sort_list/sort_list1.c.i
+ft_itoa_base/ft_itoa_base.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/ft_itoa_base/ft_itoa_base.c.i
+.PHONY : ft_itoa_base/ft_itoa_base.c.i
 
-sort_list/sort_list1.s: sort_list/sort_list1.c.s
+ft_itoa_base/ft_itoa_base.s: ft_itoa_base/ft_itoa_base.c.s
 
-.PHONY : sort_list/sort_list1.s
+.PHONY : ft_itoa_base/ft_itoa_base.s
 
 # target to generate assembly for a file
-sort_list/sort_list1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/sort_list/sort_list1.c.s
-.PHONY : sort_list/sort_list1.c.s
+ft_itoa_base/ft_itoa_base.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Exam42.dir/build.make CMakeFiles/Exam42.dir/ft_itoa_base/ft_itoa_base.c.s
+.PHONY : ft_itoa_base/ft_itoa_base.c.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Exam42"
-	@echo "... sort_list/sort_list1.o"
-	@echo "... sort_list/sort_list1.i"
-	@echo "... sort_list/sort_list1.s"
+	@echo "... ft_itoa_base/ft_itoa_base.o"
+	@echo "... ft_itoa_base/ft_itoa_base.i"
+	@echo "... ft_itoa_base/ft_itoa_base.s"
 .PHONY : help
 
 
