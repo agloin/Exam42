@@ -1,39 +1,8 @@
+
 #include <stdlib.h>
 #include <stdio.h>
 
-//int ft_atoi(char *str)
-//{
-//    char *tmp;
-//    int i;
-//    int negative;
-//    int res;
-//    int temp;
-//
-//    i = 0;
-//    while (str[i] == '\t' || str[i] == '\v' || str[i] == '\r' || str[i] == '\f' ||
-//            str[i] == '\n' || str[i] == ' ')
-//        i++;
-//    negative = 1;
-//    if (str[i] == '-')
-//    {
-//        negative = -1;
-//        i++;
-//    }
-//    res = 0;
-//    while (str[i] >= '0' && str[i] <= '9') // tmp = 313
-//    {
-//        res = res * 10 + str[i] - '0';
-//        i++;
-//    }
-//    return res * negative;
-//}
-
-//char    *ft_itoa(int value)
-//{
-//
-//}
-
-int     cout_words(int value)
+int     count_words(int value, int base)
 {
     int mount_char;
 
@@ -41,7 +10,7 @@ int     cout_words(int value)
     while(value != 0)
     {
         mount_char++;
-        value /= 10;
+        value /= base; // 25 / 10 = 2; 2 / 10 = 0;
     }
     return (mount_char);
 }
@@ -52,19 +21,47 @@ char	*ft_itoa_base(int value, int base)
     char *base_num;
     char *res;
     int minus;
+    int mount_char;
+    int i;
+
+    mount_char = count_words(value, base); //2
+
+//    printf("mount_char = %d\n", mount_char);
+//    printf("count_words = %d\n", count_words(value, base));
 
     tmp_val = (long int)value;
     minus = 1;
+//    i = 0;
     base_num = "0123456789ABCDEF";
-    if (base = 10 && tmp_val < 0)
+    if (base == 10 && tmp_val < 0)
     {
         minus = -1;
         tmp_val = -tmp_val;
     }
+    if (minus == -1)
+    {
+        i = 1;
+        mount_char++;
+        res = (char *)malloc(sizeof(char) * (mount_char + 1));
+        res[0] = '-';
+        res[mount_char] = '\0';
+        mount_char--;
+    }
     else
-        tmp_val = -tmp_val;
-    while ()
-
+    {
+        i = 0;
+        res = (char *)malloc(sizeof(char) * (mount_char + 1));
+        res[mount_char] = '\0'; //mpunt_char = 2;
+        mount_char--; // mpunt_char = 1;
+    }
+//    printf("i = %d\n", i);
+    while (mount_char >= i)
+    {
+        res[i] = base_num[tmp_val % base]; //25 % 10 = 5;
+        mount_char--;
+        tmp_val /= base;
+    }
+    return (res);
 }
 
 int main()
@@ -74,6 +71,7 @@ int main()
 //    str = (char *)malloc(sizeof(char) * 6);
     str = "-01432";
 //    str[4] = "\0";
-    printf("%d\n", cout_words(t));
+    printf("%s\n", ft_itoa_base(25, 10));
+//    printf("count words = %d\n", count_words(25, 10));
     return 0;
 }
