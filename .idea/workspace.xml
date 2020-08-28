@@ -29,7 +29,47 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a2e9fee-6d76-408e-bd95-0343f9fae51d" name="Default Changelist" comment="" />
+    <list default="true" id="6a2e9fee-6d76-408e-bd95-0343f9fae51d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ft_list_remove_if/ft_list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ft_list_remove_if/ft_list_remove_if.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ft_split/ft_split2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/options/ft_options.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/options/options.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rev_wstr/rev_wstr1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rostring/rostring.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort_list/sort_list2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/ft_itoa_base/ft_itoa_base.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Exam42.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exam42" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exam42" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exam42.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exam42.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_itoa_base/ft_itoa_base.c" beforeDir="false" afterPath="$PROJECT_DIR$/ft_itoa_base/ft_itoa_base.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ft_split/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/ft_split/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_list/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/sort_list/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort_list/list.h" beforeDir="false" afterPath="$PROJECT_DIR$/sort_list/list.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,10 +81,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ft_itoa_base/ft_itoa_base.c" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CMakeLists.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
@@ -66,13 +102,23 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
-    <configuration name="Exam42" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Exam42" TARGET_NAME="Exam42" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Exam42" RUN_TARGET_NAME="Exam42">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam42" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Exam42" TARGET_NAME="Exam42" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Exam42" RUN_TARGET_NAME="Exam42">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -94,7 +140,19 @@
       <workItem from="1597502183008" duration="1485000" />
       <workItem from="1597519171297" duration="6541000" />
       <workItem from="1597579509901" duration="405000" />
-      <workItem from="1597580008799" duration="4618000" />
+      <workItem from="1597580008799" duration="4839000" />
+      <workItem from="1597685870688" duration="366000" />
+      <workItem from="1597839095465" duration="1321000" />
+      <workItem from="1597840461640" duration="3898000" />
+      <workItem from="1597847697435" duration="2846000" />
+      <workItem from="1597912816994" duration="262000" />
+      <workItem from="1597918405818" duration="1091000" />
+      <workItem from="1597997053788" duration="5044000" />
+      <workItem from="1598004645222" duration="11651000" />
+      <workItem from="1598364919619" duration="8286000" />
+      <workItem from="1598512517659" duration="5128000" />
+      <workItem from="1598523508167" duration="99000" />
+      <workItem from="1598617930434" duration="4212000" />
     </task>
     <servers />
   </component>
@@ -106,39 +164,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="508" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596640687788">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="508" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1596640687788" />
-    <state width="960" height="284" key="GridCell.Tab.0.bottom" timestamp="1597681929834">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1499" height="401" key="GridCell.Tab.0.bottom" timestamp="1597840451733">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="401" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1597586552458" />
-    <state width="960" height="284" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1597681929834" />
-    <state width="960" height="284" key="GridCell.Tab.0.center" timestamp="1597681929833">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1499" height="401" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1597840451733" />
+    <state width="1499" height="401" key="GridCell.Tab.0.center" timestamp="1597840451733">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="401" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1597586552457" />
-    <state width="960" height="284" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1597681929833" />
-    <state width="960" height="284" key="GridCell.Tab.0.left" timestamp="1597681929832">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1499" height="401" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1597840451733" />
+    <state width="1499" height="401" key="GridCell.Tab.0.left" timestamp="1597840451732">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="401" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1597586552456" />
-    <state width="960" height="284" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1597681929832" />
-    <state width="960" height="284" key="GridCell.Tab.0.right" timestamp="1597681929833">
-      <screen x="0" y="30" width="1920" height="1050" />
+    <state width="1499" height="401" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1597840451732" />
+    <state width="1499" height="401" key="GridCell.Tab.0.right" timestamp="1597840451733">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1499" height="401" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1597586552457" />
-    <state width="960" height="284" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1597681929833" />
+    <state width="1499" height="401" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1597840451733" />
     <state width="1499" height="502" key="GridCell.Tab.1.bottom" timestamp="1597525747251">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
@@ -163,17 +216,21 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="854" height="643" key="ImportCMakeProjectWizard.topPanel/0.23.2560.1417@0.23.2560.1417" timestamp="1596625551842" />
+    <state x="500" y="470" width="540" height="524" key="StructurePopup" timestamp="1597841830567">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="500" y="470" width="540" height="524" key="StructurePopup/0.23.2560.1417@0.23.2560.1417" timestamp="1597841830567" />
     <state x="370" y="471" key="Vcs.Push.Dialog.v2" timestamp="1597524089820">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="370" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1597524089820" />
-    <state x="645" y="595" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1597524810923">
+    <state x="645" y="595" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1597844117380">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="645" y="595" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.23.2560.1417@0.23.2560.1417" timestamp="1597524810923" />
-    <state x="435" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1596811945747">
+    <state x="645" y="595" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.23.2560.1417@0.23.2560.1417" timestamp="1597844117380" />
+    <state x="435" y="348" width="672" height="676" key="search.everywhere.popup" timestamp="1598513109954">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="435" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1596811945747" />
+    <state x="435" y="348" width="672" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1598513109954" />
   </component>
 </project>
